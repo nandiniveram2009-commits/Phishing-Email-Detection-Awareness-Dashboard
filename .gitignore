@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+backend/phishing_dashboard.db
+models/*.pkl
+data/phishing_email_dataset.csv
+.ipynb_checkpoints/
